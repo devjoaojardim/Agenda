@@ -29,12 +29,12 @@
           <text value="Remover"/>
         </properties>
       </component>
-      <component id="efc7f" class="javax.swing.JLabel">
+      <component id="efc7f" class="javax.swing.JLabel" binding="labelContactCount">
         <constraints>
           <grid row="0" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
-          <text value="Label"/>
+          <text value="0"/>
         </properties>
       </component>
       <component id="a073f" class="javax.swing.JTable" binding="tableContacts">
